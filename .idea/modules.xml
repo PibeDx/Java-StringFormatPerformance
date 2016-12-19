@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java-StringFormatPerformance.iml" filepath="$PROJECT_DIR$/.idea/modules/Java-StringFormatPerformance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java-StringFormatPerformance_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Java-StringFormatPerformance_main.iml" group="Java-StringFormatPerformance" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java-StringFormatPerformance_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Java-StringFormatPerformance_test.iml" group="Java-StringFormatPerformance" />
+    </modules>
+  </component>
+</project>
